@@ -1,0 +1,113 @@
+recId|SeqNumber|seqLength|displayLatitude|displayLongitude|distance|locationLabel|houseNumber|street|district|city|postalCode|county|state|country
+0001|1|1|-27.4668125|153.0308532|0.1|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0002|1|1|-27.4659376|153.0310995|0.3|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0003|1|1|-27.4658513|153.0310803|0.5|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0004|1|1|-27.46539|153.03135|0.4|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0005|1|1|-27.4653069|153.0313708|0.6|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0006|1|1|-27.464716|153.0315284|0.3|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0007|1|1|-27.4647|153.0316544|0.5|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0008|1|1|-27.4643719|153.0317295|0.0|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0009|1|1|-27.464349|153.031526|0.2|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0010|1|1|-27.4642114|153.0315597|0.2|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0011|1|1|-27.4641251|153.0315148|0.0|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0012|1|1|-27.46407|153.03142|0.2|Brisbane City QLD 4000, Australia|||Brisbane City|Brisbane|4000||QLD|AUS
+0013|1|1|-27.46392|153.03121|4.9|500 Queen St, Brisbane City QLD 4000, Australia|500|Queen St|Brisbane City|Brisbane|4000||QLD|AUS
+0014|1|1|-27.4636633|153.0314724|5.5|447 Adelaide St, Brisbane City QLD 4000, Australia|447|Adelaide St|Brisbane City|Brisbane|4000||QLD|AUS
+0015|1|1|-27.46317|153.03114|0.3|544 Queen St, Brisbane City QLD 4000, Australia|544|Queen St|Brisbane City|Brisbane|4000||QLD|AUS
+0016|1|1|-27.46298|153.03107|5.3|540 Queen St, Brisbane City QLD 4000, Australia|540|Queen St|Brisbane City|Brisbane|4000||QLD|AUS
+0017|1|1|-27.4626996|153.0312301|0.5|Ann St, Brisbane City QLD 4000, Australia||Ann St|Brisbane City|Brisbane|4000||QLD|AUS
+0018|1|1|-27.4624942|153.0312888|0.1|Ann St, Brisbane City QLD 4000, Australia||Ann St|Brisbane City|Brisbane|4000||QLD|AUS
+0019|1|1|-27.4623455|153.0313671|0.3|Ann St, Brisbane City QLD 4000, Australia||Ann St|Brisbane City|Brisbane|4000||QLD|AUS
+0020|1|1|-27.4619259|153.0316332|0.0|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0021|1|1|-27.46179|153.0317399|0.4|Boundary St, Fortitude Valley QLD 4006, Australia||Boundary St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0022|1|1|-27.46066|153.03404|0.6|573 Ann St, Fortitude Valley QLD 4006, Australia|573|Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0023|1|1|-27.4597083|153.0337769|0.4|Gipps St, Fortitude Valley QLD 4006, Australia||Gipps St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0024|1|1|-27.4592219|153.0342724|0.0|Marshall St, Fortitude Valley QLD 4006, Australia||Marshall St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0025|1|1|-27.4587924|153.0346606|0.2|Clem Jones Tunl, Fortitude Valley QLD 4006, Australia||Clem Jones Tunl|Fortitude Valley|Brisbane|4006||QLD|AUS
+0026|1|1|-27.45854|153.03502|6.4|326B Brunswick St, Fortitude Valley QLD 4006, Australia|326B|Brunswick St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0027|1|1|-27.45648|153.03697|0.7|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0028|1|1|-27.4554106|153.0380818|0.3|James St, Fortitude Valley QLD 4006, Australia||James St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0029|1|1|-27.4552306|153.0382399|0.2|25, Fortitude Valley QLD 4006, Australia||25|Fortitude Valley|Brisbane|4006||QLD|AUS
+0030|1|1|-27.45508|153.03874|1.4|871 Ann St, Fortitude Valley QLD 4006, Australia|871|Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0031|1|1|-27.45487|153.03896|20.2|887 Ann St, Fortitude Valley QLD 4006, Australia|887|Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0032|1|1|-27.45463|153.03942|1.6|895 Ann St, Fortitude Valley QLD 4006, Australia|895|Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0033|1|1|-27.45365|153.03982|0.4|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0034|1|1|-27.4534727|153.0399284|0.2|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0035|1|1|-27.45329|153.04053|2.6|977 Ann St, Fortitude Valley QLD 4006, Australia|977|Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0036|1|1|-27.4527841|153.0404939|0.1|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0037|1|1|-27.45253|153.04064|0.6|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0038|1|1|-27.45129|153.04102|0.4|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0039|1|1|-27.4507134|153.0411791|0.3|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0040|1|1|-27.4506685|153.041357|2.9|1 Ann St, Newstead QLD 4006, Australia|1|Ann St|Newstead|Brisbane|4006||QLD|AUS
+0041|1|1|-27.4504681|153.0413218|0.1|Ann St, Fortitude Valley QLD 4006, Australia||Ann St|Fortitude Valley|Brisbane|4006||QLD|AUS
+0042|1|1|-27.4499591|153.0418263|0.5|Fortitude Valley QLD 4006, Australia|||Fortitude Valley|Brisbane|4006||QLD|AUS
+0043|1|1|-27.4496404|153.0422299|0.3|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0044|1|1|-27.4494|153.04248|0.6|Breakfast Creek Rd, Bowen Hills QLD 4006, Australia||Breakfast Creek Rd|Bowen Hills|Brisbane|4006||QLD|AUS
+0045|1|1|-27.4492672|153.0426012|0.4|Breakfast Creek Rd, Bowen Hills QLD 4006, Australia||Breakfast Creek Rd|Bowen Hills|Brisbane|4006||QLD|AUS
+0046|1|1|-27.44914|153.04321|4.9|25 Breakfast Creek Rd, Newstead QLD 4006, Australia|25|Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0047|1|1|-27.44858|153.04287|10.9|41-43 Breakfast Creek Rd, Newstead QLD 4006, Australia|41-43|Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0048|1|1|-27.44731|153.04255|0.6|Breakfast Creek Rd, Newstead QLD 4006, Australia||Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0049|1|1|-27.4468947|153.0425599|0.5|Breakfast Creek Rd, Newstead QLD 4006, Australia||Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0050|1|1|-27.44652|153.04214|17.4|94 Breakfast Creek Rd, Newstead QLD 4006, Australia|94|Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0051|1|1|-27.4455321|153.0427696|0.0|Breakfast Creek Rd, Newstead QLD 4006, Australia||Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0052|1|1|-27.44537|153.04319|5.8|115 Breakfast Creek Rd, Newstead QLD 4006, Australia|115|Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0053|1|1|-27.4447992|153.0431674|0.4|Maud St, Newstead QLD 4006, Australia||Maud St|Newstead|Brisbane|4006||QLD|AUS
+0054|1|1|-27.444118|153.0435841|0.2|Edmund St, Newstead QLD 4006, Australia||Edmund St|Newstead|Brisbane|4006||QLD|AUS
+0055|1|1|-27.44384|153.04396|12.5|1 Halford St, Newstead QLD 4006, Australia|1|Halford St|Newstead|Brisbane|4006||QLD|AUS
+0056|1|1|-27.44274|153.04475|5.9|171 Breakfast Creek Rd, Newstead QLD 4006, Australia|171|Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0057|1|1|-27.4423963|153.0447773|5.6|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0058|1|1|-27.44219|153.04497|0.6|Breakfast Creek Rd, Newstead QLD 4006, Australia||Breakfast Creek Rd|Newstead|Brisbane|4006||QLD|AUS
+0059|1|1|-27.4421975|153.0450134|0.3|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0060|1|1|-27.4421097|153.0451297|0.0|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0061|1|1|-27.4418291|153.0454611|0.2|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0062|1|1|-27.4413996|153.0459019|0.2|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0063|1|1|-27.4413802|153.0459988|0.0|Newstead QLD 4006, Australia|||Newstead|Brisbane|4006||QLD|AUS
+0064|1|1|-27.4414394|153.0461088|0.6|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0065|1|1|-27.4415186|153.0465134|0.1|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0066|1|1|-27.441499|153.0465564|0.1|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0067|1|1|-27.4415799|153.046932|0.4|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0068|1|1|-27.44156|153.0473501|0.3|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0069|1|1|-27.4415001|153.0476194|0.2|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0070|1|1|-27.44142|153.04781|0.4|Albion QLD 4010, Australia|||Albion|Brisbane|4010||QLD|AUS
+0071|1|1|-27.44134|153.04788|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0072|1|1|-27.4410793|153.0482408|0.0|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0073|1|1|-27.4405713|153.0488385|0.6|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0074|1|1|-27.4402321|153.0492176|0.0|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0075|1|1|-27.4400892|153.0496136|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0076|1|1|-27.44007|153.0497002|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0077|1|1|-27.4399995|153.050355|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0078|1|1|-27.4399502|153.0508479|0.3|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0079|1|1|-27.4398098|153.0514907|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0080|1|1|-27.4395486|153.0522547|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0081|1|1|-27.4394509|153.0525869|0.2|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0082|1|1|-27.43941|153.0529404|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0083|1|1|-27.4394|153.0537988|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0084|1|1|-27.4393704|153.0541846|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0085|1|1|-27.4392297|153.0555043|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0086|1|1|-27.4391902|153.0562449|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0087|1|1|-27.4392297|153.0568352|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0088|1|1|-27.4392996|153.0573175|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0089|1|1|-27.4397006|153.0584433|0.6|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0090|1|1|-27.4398194|153.0590568|0.6|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0091|1|1|-27.4398499|153.0594636|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0092|1|1|-27.4398301|153.0603221|0.6|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0093|1|1|-27.4399199|153.0616522|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0094|1|1|-27.4399002|153.062135|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0095|1|1|-27.4398703|153.0624571|0.3|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0096|1|1|-27.4397407|153.0633155|0.2|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0097|1|1|-27.4398|153.06335|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0098|1|1|-27.4399611|153.0641742|0.3|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0099|1|1|-27.4401611|153.0649229|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0100|1|1|-27.44025|153.0651606|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0101|1|1|-27.44026|153.0654289|0.5|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0102|1|1|-27.4407123|153.067279|0.6|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0103|1|1|-27.4407806|153.0672522|0.2|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0104|1|1|-27.4412189|153.068851|0.0|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0105|1|1|-27.4404787|153.0695164|0.0|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0106|1|1|-27.44039|153.06961|0.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0107|1|1|-27.4401994|153.0697305|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0108|1|1|-27.4399109|153.0699892|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0109|1|1|-27.4398344|153.0700845|0.1|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0110|1|1|-27.439683|153.0703845|0.2|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0111|1|1|-27.43957|153.07049|7.4|Hamilton QLD 4007, Australia|||Hamilton|Brisbane|4007||QLD|AUS
+0112|1|1|-27.4394|153.07098|5.1|34 Remora Rd, Hamilton QLD 4007, Australia|34|Remora Rd|Hamilton|Brisbane|4007||QLD|AUS
